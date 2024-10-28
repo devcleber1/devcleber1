@@ -1,47 +1,46 @@
-## Hello I'm Cleber!
+# 👋 Hello! I'm Cleber
 
-Sou um  Desenvolvedor Full-Stack!
+Sou desenvolvedor Full-Stack em transição de carreira, anteriormente atuando como Analista de Suporte TI. Atualmente, trabalho na empresa IDEIAS, onde sou jovem aprendiz no Hospital Getúlio Vargas Filho. Minhas responsabilidades variam desde suporte técnico e manutenção de infraestrutura de redes até o gerenciamento de servidores e impressoras.
 
-No que diz respeito às minhas habilidades de front-end, tenho experiência em HTML, CSS e JavaScript, além de conhecimento sólido em frameworks como React. Procuro estar sempre atualizado com as últimas tendências e tecnologias do mercado para fornecer aos meus clientes soluções inovadoras e eficientes. Meu objetivo é criar interfaces atraentes e funcionais, com atenção especial à experiência do usuário.
+Recentemente, implementei um sistema de inventário que substituiu o controle via planilhas de Excel no setor de TI do hospital, trazendo eficiência e automação ao processo. Este sistema foi desenvolvido com Node.js, Express.js, Sequelize, PostgreSQL, e React.js, utilizando Styled Components e Material UI para a interface. O projeto resultou em um controle mais eficiente e seguro dos ativos de TI do hospital.
 
-No que se refere às minhas habilidades de back-end, trabalho principalmente com Node.js e utilizo bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB. Tenho experiência em consumir APIs eficientes e escaláveis, usando ferramentas como Docker e Sequelize. Meu objetivo é fornecer uma infraestrutura robusta e segura para aplicativos web, garantindo alto desempenho e estabilidade.
+## 🚀 Áreas de Atuação
 
-<div>
-  <img  margin-bottom="20px" height="180em"  >
-   <img margin-bottom="20px" align="right" height="180em" />
-  </div>
-<br>
+Como desenvolvedor Full-Stack freelancer, atuo tanto no front-end quanto no back-end. Estou sempre em busca das melhores práticas e tecnologias para entregar soluções inovadoras e otimizadas, garantindo uma infraestrutura robusta e escalável.
 
+### 🔥 Tecnologias Principais:
+- **Front-end:** React.js, HTML, CSS, JavaScript, TypeScript, Styled Components, Material UI
+- **Back-end:** Node.js, Express.js, APIs RESTful
+- **Bancos de Dados:** PostgreSQL, MongoDB, Sequelize
+- **DevOps:** Docker, Git, GitHub
 
-<div  align="center"> 
-  <div margin-right="20px"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias :heart:</h1>
-    <img align="center" height="60" width="120" alt="node-icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" height="60" width="120" alt="express-icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img align="center" height="60" width="120" alt="postgres-icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" height="60" width="120" alt="mongo-icon" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center" height="60" width="120" alt="sequelize-icon" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-      <img align="center" height="60" width="120" alt="react-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   </div>
-   <br>'
-   <br>
+### 📈 GitHub Stats:
+[![Cleber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcleber1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-  <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Conectem Comigo :blue_heart:</h1>
-    <a href="https://www.linkedin.com/in/cleberalvesnunes/">
-      <img align="center" height="30" width="100" alt="linkedin-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/acodador/">
-      <img align="center" height="30" margin-left="30" width="100" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    
-   </div>
+### 🛠 Ferramentas e Tecnologias:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Material Ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
+## 📚 Certificações e Habilidades:
+- Informática
+- Administração
+- Inglês básico
+- Desenvolvimento Web Full-Stack (Front-end e Back-end)
+  
+Estou sempre evoluindo e buscando novos desafios, principalmente nas áreas de desenvolvimento de software, DevOps, e soluções escaláveis em nuvem.
 
+## 📞 Contato e Redes Sociais
 
-   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+- [LinkedIn](https://www.linkedin.com/in/cleberalvesnunes/)
+- [GitHub](https://github.com/devcleber1)
+- E-mail: devcleber@ouutlook.com
