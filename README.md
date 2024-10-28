@@ -44,3 +44,10 @@ Estou sempre evoluindo e buscando novos desafios, principalmente nas áreas de d
 - [LinkedIn](https://www.linkedin.com/in/cleberalvesnunes/)
 - [GitHub](https://github.com/devcleber1)
 - E-mail: devcleber@ouutlook.com
+
+
+
+
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
