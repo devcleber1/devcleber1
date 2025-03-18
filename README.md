@@ -1,8 +1,12 @@
 # 👋 Hello! I'm Cleber
 
-Sou desenvolvedor Full-Stack em transição de carreira, anteriormente atuando como Analista de Suporte TI. Atualmente, trabalho na empresa IDEIAS, onde sou jovem aprendiz no Hospital Getúlio Vargas Filho. Minhas responsabilidades variam desde suporte técnico e manutenção de infraestrutura de redes até o gerenciamento de servidores e impressoras.
+Sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação, com experiência em React.js, Node.js, PostgreSQL e Docker. Em transição da área de Suporte em TI para Desenvolvimento Web, aplico minha expertise para criar soluções escaláveis e eficientes tanto no front-end quanto no back-end.
 
-Recentemente, implementei um sistema de inventário que substituiu o controle via planilhas de Excel no setor de TI do hospital, trazendo eficiência e automação ao processo. Este sistema foi desenvolvido com Node.js, Express.js, Sequelize, PostgreSQL, e React.js, utilizando Styled Components e Material UI para a interface. O projeto resultou em um controle mais eficiente e seguro dos ativos de TI do hospital.
+Atualmente, trabalho como Analista de TI no Hospital Getúlio Vargas Filho, onde sou responsável por infraestrutura de redes, suporte técnico e gerenciamento de servidores. Além disso, desenvolvi e implementei um sistema de inventário digital, substituindo processos manuais e otimizando a gestão de equipamentos em 70%.
+
+Como freelancer, desenvolvo aplicações web modernas, utilizando React.js, Styled Components e Material UI no front-end e Node.js, Express.js, PostgreSQL e MongoDB no back-end. Tenho experiência com Docker e arquitetura de microserviços, garantindo ambientes de alta performance e escalabilidade.
+
+Além da minha atuação profissional, participei de um projeto social voluntário, desenvolvendo o site de uma ONG para apoio a crianças em situação de vulnerabilidade, focando em acessibilidade e usabilidade.
 
 ## 🚀 Áreas de Atuação
 
